@@ -188,3 +188,5 @@ pos-kuliner/
 ## 🤝 Credit
 
 Dikembangkan sebagai project sistem POS untuk usaha kuliner. Memakai [Bootstrap](https://getbootstrap.com), [Font Awesome](https://fontawesome.com), dan [DataTables](https://datatables.net).
+
+© 2026 Titan Faranzano. Source code ditampilkan untuk dilihat dan dipelajari; penggunaan ulang tidak diizinkan tanpa izin tertulis.
